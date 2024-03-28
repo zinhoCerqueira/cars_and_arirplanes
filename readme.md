@@ -23,24 +23,6 @@ pip install tensorflow keras numpy matplotlib
 
 3. **Visualização dos Resultados**: Após a execução do script, você verá a imagem gerada contendo todas as imagens avaliadas juntamente com a classificação de cada uma delas.
 
-## Estrutura do 
-
-/
-|-- img/ # Pasta contendo as imagens a serem avaliadas
-| |-- car/
-
-| | |-- car1.jpeg
-
-| | |-- car2.jpeg
-
-| | |-- ...
-
-| |-- airplane/
-
-| |-- airplane1.jpeg
-
-| |-- airplane2.jpeg
-
 ## Observações
 
 - Certifique-se de que o modelo HDF5 (`modelo.h5`) está presente no diretório raiz do projeto antes de executar o script.
