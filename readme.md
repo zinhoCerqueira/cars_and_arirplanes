@@ -28,18 +28,18 @@ pip install tensorflow keras numpy matplotlib
 /
 |-- img/ # Pasta contendo as imagens a serem avaliadas
 | |-- car/
-| | |-- car1.jpeg
-| | |-- car2.jpeg
-| | |-- ...
-| |-- airplane/
-| |-- airplane1.jpeg
-| |-- airplane2.jpeg
-| |-- ...
-|
-|-- avaliacao_imagens.py # Script Python para avaliação de imagens
-|-- modelo.h5 # Arquivo HDF5 contendo o modelo treinado
-|-- README.md # Este arquivo README
 
+| | |-- car1.jpeg
+
+| | |-- car2.jpeg
+
+| | |-- ...
+
+| |-- airplane/
+
+| |-- airplane1.jpeg
+
+| |-- airplane2.jpeg
 
 ## Observações
 
